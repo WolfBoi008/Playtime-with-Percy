@@ -8,7 +8,7 @@ Unlike a lot of FNAF-inspired games, this one is copyright-free! So much so that
 - Beat Parasitic Pals (PAL Boss Fight Max Mode)
 ## Items
 - Progressive Shifts
-- E.M.Pal (for Friday)
+- E.M.Pal (for Friday Morning and its Challenges)
 - Characters (for Custom Hour)
 ## Checks
 - Beating Shifts
