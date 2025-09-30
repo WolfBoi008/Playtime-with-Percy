@@ -7,8 +7,9 @@ Unlike a lot of FNAF-inspired games, this one is copyright-free! So much so that
 - Beat Percy’s Best Friend (Normal Max Mode)
 - Beat Parasitic Pals (PAL Boss Fight Max Mode)
 ## Items
-- Progressive Shift
-- Custom Hour Exclusive Characters
+- Progressive Shifts
+- E.M.Pal (for Friday)
+- Characters (for Custom Hour)
 ## Checks
 - Beating Shifts
 - Beating Post-Shifts
