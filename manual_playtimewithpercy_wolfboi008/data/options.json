@@ -1,0 +1,100 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "Select your victory condition. You can choose any of the following:\n- Beating the Pal Boss Fight (Friday Morning)\n- Beating the Normal Mode Max Mode, Percy's Best Friend\n- Beating the Pal Boss Fight Max Mode, Parasitic Pals",
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        }
+    },
+    "user": {
+        "_commented_out_option":{
+            "type": "Toggle",
+            "default": true
+        },
+        "_Example_Toggle":{
+            "description": [
+                "This is a Toggle",
+                "A simple boolean, aka True or False set the initial value with \"default\""
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Example Options"
+        },
+        "_Example_Choice":{
+            "type": "Choice",
+            "description": [
+                "This is a Choice",
+                "Let the user pick from a list of values",
+                "allow_custom_value let a player define their own text value",
+                "Currently the only use for Choice in Manual outside of hooks is the goal"
+            ],
+            "values": {
+                "start":0,
+                "test":1
+             },
+            "default": 0,
+            "allow_custom_value": false,
+            "group": "Example Options"
+        },
+        "_Example_Range":{
+            "type": "Range",
+            "description": [
+                "This is a Range",
+                "Allow the player to specify a value between 'start' and 'end'",
+                "if you include a \"values\" you can define the label for certain values",
+                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+            ],
+            "range_start": 0,
+            "default": 1,
+            "range_end": 10,
+            "values": {"example": 2},
+            "group": "Example Options"
+        },
+         "jumpscaresanity":{
+            "description": [
+                "Add Checks for getting jumpscared by each Character in the game.",
+                "(14 Checks)"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "rank_checks":{
+            "type": "Choice",
+            "description": [
+                "Allow obtaining Ranks as Checks. Select the highest Rank that you want to be Checks.",
+                "If you obtain a Rank higher than one for a Check, you can still send it.",
+                "For example, getting an A Rank would allow you to send Checks for Ranks F, D, C, B, and A,",
+                "but not S, assuming every Rank is enabled.",
+                "(30 Checks, 5 Checks per Tier)"
+            ],
+            "values": {
+                "disabled": 0,
+                "f": 1,
+                "d": 2,
+                "c": 3,
+                "b": 4,
+                "a": 5,
+                "s": 6
+             },
+            "default": 0,
+            "allow_custom_value": false
+        },
+        "custom_hour_challenges": {
+            "description": [
+                "Enable Checks for each of the Challenges found in Custom Hour.",
+                "Recommended to disable if you have Friday Morning as your Goal.",
+                "(6 Checks)"
+            ],
+            "type": "Toggle",
+            "default": true
+        }
+    }
+}

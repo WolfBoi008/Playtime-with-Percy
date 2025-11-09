@@ -1,0 +1,10 @@
+{
+  "Campaign": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Custom Hour": {
+    "connects_to": [],
+    "requires": []
+  }
+}

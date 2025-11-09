@@ -1,0 +1,813 @@
+[
+  {
+    "name": "Monday Night - Complete",
+    "region": "Campaign",
+    "category": [
+      "Monday"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Auction Automation - Halfway Point",
+    "region": "Campaign",
+    "category": [
+      "Monday"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Auction Automation - Complete",
+    "region": "Campaign",
+    "category": [
+      "Monday"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tuesday Night - Complete",
+    "region": "Campaign",
+    "category": [
+      "Tuesday"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Retro Hijinks - Halfway Point",
+    "region": "Campaign",
+    "category": [
+      "Tuesday"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Retro Hijinks - Complete",
+    "region": "Campaign",
+    "category": [
+      "Tuesday"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Wednesday Night - Complete",
+    "region": "Campaign",
+    "category": [
+      "Wednesday"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Puzzling Power - Halfway Point",
+    "region": "Campaign",
+    "category": [
+      "Wednesday"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Puzzling Power - Complete",
+    "region": "Campaign",
+    "category": [
+      "Wednesday"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Thursday Night - Complete",
+    "region": "Campaign",
+    "category": [
+      "Thursday"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Farmer's Serenade - Halfway Point",
+    "region": "Campaign",
+    "category": [
+      "Thursday"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Farmer's Serenade - Complete",
+    "region": "Campaign",
+    "category": [
+      "Thursday"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Friday Night - Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4|"
+  },
+  {
+    "name": "Repairing Percy - Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4|"
+  },
+  {
+    "name": "Friday Morning - Charge 1/5 Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday Morning - Charge 2/5 Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday Morning - Charge 3/5 Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday Morning - Charge 4/5 Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday Morning - Charge 5/5 Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday Morning - Complete",
+    "region": "Campaign",
+    "category": [
+      "Friday"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday Morning",
+    "region": "Campaign",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|",
+    "victory": true
+  },
+  {
+    "name": "Summer Day - Challenge Complete",
+    "region": "Custom Hour",
+    "category": [
+      "Custom Hour Challenges"
+    ],
+    "requires": "|Percy Poodle| AND |Charlie Cat| AND |Mother Moose| AND |Farmer Felix| AND |Rowen Rat| AND |Tim (Playful Poodles)| AND |Tat (Playful Poodles)| AND |Tot (Playful Poodles)|"
+  },
+  {
+    "name": "Flock o' Poodles - Challenge Complete",
+    "region": "Custom Hour",
+    "category": [
+      "Custom Hour Challenges"
+    ],
+    "requires": "|Percy Poodle| AND |Charlie Cat| AND |Mother Moose| AND |Farmer Felix| AND |Rowen Rat| AND |Tim (Playful Poodles)| AND |Tat (Playful Poodles)| AND |Tot (Playful Poodles)|"
+  },
+  {
+    "name": "Percy's Best Friend - Challenge Complete",
+    "region": "Custom Hour",
+    "category": [
+      "Custom Hour Challenges"
+    ],
+    "requires": "|@Normal Mode Characters:10|"
+  },
+  {
+    "name": "Percy's Best Friend",
+    "region": "Custom Hour",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Normal Mode Characters:10|",
+    "victory": true
+  },
+  {
+    "name": "Possum Peril - Challenge Complete",
+    "region": "Custom Hour",
+    "category": [
+      "Custom Hour Challenges"
+    ],
+    "requires": "|E.M.Pal| AND |Pal| AND |TamaLanki| AND |TamaOpti| AND |TamaBruti| AND |TamaRoachi| AND |Tim (Poodle Pals)| AND |Tat (Poodle Pals)| AND |Tot (Poodle Pals)|"
+  },
+  {
+    "name": "Festive Friends - Challenge Complete",
+    "region": "Custom Hour",
+    "category": [
+      "Custom Hour Challenges"
+    ],
+    "requires": "|E.M.Pal| AND |Pal| AND |TamaLanki| AND |TamaOpti| AND |TamaBruti| AND |TamaRoachi| AND |Tim (Poodle Pals)| AND |Tat (Poodle Pals)| AND |Tot (Poodle Pals)|"
+  },
+  {
+    "name": "Parasitic Pals - Challenge Complete",
+    "region": "Custom Hour",
+    "category": [
+      "Custom Hour Challenges"
+    ],
+    "requires": "|E.M.Pal| AND |@Pal Mode Characters:10|"
+  },
+  {
+    "name": "Parasitic Pals",
+    "region": "Custom Hour",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|E.M.Pal| AND |@Pal Mode Characters:10|",
+    "victory": true
+  },
+  {
+    "name": "Survive a Night with Percy Poodle Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Progressive Shift:2| OR |Percy Poodle|"
+  },
+  {
+    "name": "Survive a Night with Charlie Cat Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Mother Moose Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survive a Night with Farmer Felix Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Progressive Shift:1| OR |Farmer Felix|"
+  },
+  {
+    "name": "Survive a Night with Rowen Rat Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Progressive Shift:3| OR |Rowen Rat|"
+  },
+  {
+    "name": "Survive a Night with Tim (Playful Poodles) Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Progressive Shift:3| OR |Tim (Playful Poodles)|"
+  },
+  {
+    "name": "Survive a Night with Tat (Playful Poodles) Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Progressive Shift:1| OR |Tat (Playful Poodles)|"
+  },
+  {
+    "name": "Survive a Night with Tot (Playful Poodles) Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "|Progressive Shift:2| OR |Tot (Playful Poodles)|"
+  },
+  {
+    "name": "Survive a Night with Sunny Sheep Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks",
+      "Custom Hour Checks"
+    ],
+    "requires": "|Sunny Sheep|"
+  },
+  {
+    "name": "Survive a Night with Helios Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks",
+      "Custom Hour Checks"
+    ],
+    "requires": "|Helios|"
+  },
+  {
+    "name": "Survive a Night with Pal Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |Pal|"
+  },
+  {
+    "name": "Survive a Night with TamaLanki Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaLanki|"
+  },
+  {
+    "name": "Survive a Night with TamaOpti Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaOpti|"
+  },
+  {
+    "name": "Survive a Night with TamaBruti Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaBruti|"
+  },
+  {
+    "name": "Survive a Night with TamaRoachi Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaRoachi|"
+  },
+  {
+    "name": "Survive a Night with Tim (Poodle Pals) Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |Tim (Poodle Pals)|"
+  },
+  {
+    "name": "Survive a Night with Tat (Poodle Pals) Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |Tat (Poodle Pals)|"
+  },
+  {
+    "name": "Survive a Night with Tot (Poodle Pals) Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |Tot (Poodle Pals)|"
+  },
+  {
+    "name": "Survive a Night with Polly Possum Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks",
+      "Custom Hour Checks"
+    ],
+    "requires": "|Polly Possum|"
+  },
+  {
+    "name": "Survive a Night with Truman Active",
+    "region": "Custom Hour",
+    "category": [
+      "Character Checks",
+      "Custom Hour Checks"
+    ],
+    "requires": "|Truman|"
+  },
+  {
+    "name": "Percy Poodle Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Progressive Shift:2| OR |Percy Poodle|"
+  },
+  {
+    "name": "Charlie Cat Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mother Moose Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Farmer Felix Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Progressive Shift:1| OR |Farmer Felix|"
+  },
+  {
+    "name": "Rowen Rat Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Progressive Shift:3| OR |Rowen Rat|"
+  },
+  {
+    "name": "Sunny Sheep Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Sunny Sheep|"
+  },
+  {
+    "name": "Helios Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Helios|"
+  },
+  {
+    "name": "Pal Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |Pal|"
+  },
+  {
+    "name": "TamaLanki Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaLanki|"
+  },
+  {
+    "name": "TamaOpti Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaOpti|"
+  },
+  {
+    "name": "TamaBruti Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaBruti|"
+  },
+  {
+    "name": "TamaRoachi Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "(|Progressive Shift:4| AND |E.M.Pal|) OR |TamaRoachi|"
+  },
+  {
+    "name": "Polly Possum Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Polly Possum|"
+  },
+  {
+    "name": "Truman Jumpscare",
+    "region": "Custom Hour",
+    "category": [
+      "Jumpscaresanity"
+    ],
+    "requires": "|Truman|"
+  },
+  {
+    "name": "Monday - F Rank",
+    "region": "Campaign",
+    "category": [
+      "Monday",
+      "Rank Checks",
+      "F Ranks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monday - D Rank",
+    "region": "Campaign",
+    "category": [
+      "Monday",
+      "Rank Checks",
+      "D Ranks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monday - C Rank",
+    "region": "Campaign",
+    "category": [
+      "Monday",
+      "Rank Checks",
+      "C Ranks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monday - B Rank",
+    "region": "Campaign",
+    "category": [
+      "Monday",
+      "Rank Checks",
+      "B Ranks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monday - A Rank",
+    "region": "Campaign",
+    "category": [
+      "Monday",
+      "Rank Checks",
+      "A Ranks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monday - S Rank",
+    "region": "Campaign",
+    "category": [
+      "Monday",
+      "Rank Checks",
+      "S Ranks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tuesday - F Rank",
+    "region": "Campaign",
+    "category": [
+      "Tuesday",
+      "Rank Checks",
+      "F Ranks"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Tuesday - D Rank",
+    "region": "Campaign",
+    "category": [
+      "Tuesday",
+      "Rank Checks",
+      "D Ranks"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Tuesday - C Rank",
+    "region": "Campaign",
+    "category": [
+      "Tuesday",
+      "Rank Checks",
+      "C Ranks"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Tuesday - B Rank",
+    "region": "Campaign",
+    "category": [
+      "Tuesday",
+      "Rank Checks",
+      "B Ranks"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Tuesday - A Rank",
+    "region": "Campaign",
+    "category": [
+      "Tuesday",
+      "Rank Checks",
+      "A Ranks"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Tuesday - S Rank",
+    "region": "Campaign",
+    "category": [
+      "Tuesday",
+      "Rank Checks",
+      "S Ranks"
+    ],
+    "requires": "|Progressive Shift:1|"
+  },
+  {
+    "name": "Wednesday - F Rank",
+    "region": "Campaign",
+    "category": [
+      "Wednesday",
+      "Rank Checks",
+      "F Ranks"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Wednesday - D Rank",
+    "region": "Campaign",
+    "category": [
+      "Wednesday",
+      "Rank Checks",
+      "D Ranks"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Wednesday - C Rank",
+    "region": "Campaign",
+    "category": [
+      "Wednesday",
+      "Rank Checks",
+      "C Ranks"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Wednesday - B Rank",
+    "region": "Campaign",
+    "category": [
+      "Wednesday",
+      "Rank Checks",
+      "B Ranks"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Wednesday - A Rank",
+    "region": "Campaign",
+    "category": [
+      "Wednesday",
+      "Rank Checks",
+      "A Ranks"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Wednesday - S Rank",
+    "region": "Campaign",
+    "category": [
+      "Wednesday",
+      "Rank Checks",
+      "S Ranks"
+    ],
+    "requires": "|Progressive Shift:2|"
+  },
+  {
+    "name": "Thursday - F Rank",
+    "region": "Campaign",
+    "category": [
+      "Thursday",
+      "Rank Checks",
+      "F Ranks"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Thursday - D Rank",
+    "region": "Campaign",
+    "category": [
+      "Thursday",
+      "Rank Checks",
+      "D Ranks"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Thursday - C Rank",
+    "region": "Campaign",
+    "category": [
+      "Thursday",
+      "Rank Checks",
+      "C Ranks"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Thursday - B Rank",
+    "region": "Campaign",
+    "category": [
+      "Thursday",
+      "Rank Checks",
+      "B Ranks"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Thursday - A Rank",
+    "region": "Campaign",
+    "category": [
+      "Thursday",
+      "Rank Checks",
+      "A Ranks"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Thursday - S Rank",
+    "region": "Campaign",
+    "category": [
+      "Thursday",
+      "Rank Checks",
+      "S Ranks"
+    ],
+    "requires": "|Progressive Shift:3|"
+  },
+  {
+    "name": "Friday - F Rank",
+    "region": "Campaign",
+    "category": [
+      "Friday",
+      "Rank Checks",
+      "F Ranks"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday - D Rank",
+    "region": "Campaign",
+    "category": [
+      "Friday",
+      "Rank Checks",
+      "D Ranks"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday - C Rank",
+    "region": "Campaign",
+    "category": [
+      "Friday",
+      "Rank Checks",
+      "C Ranks"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday - B Rank",
+    "region": "Campaign",
+    "category": [
+      "Friday",
+      "Rank Checks",
+      "B Ranks"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday - A Rank",
+    "region": "Campaign",
+    "category": [
+      "Friday",
+      "Rank Checks",
+      "A Ranks"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  },
+  {
+    "name": "Friday - S Rank",
+    "region": "Campaign",
+    "category": [
+      "Friday",
+      "Rank Checks",
+      "S Ranks"
+    ],
+    "requires": "|Progressive Shift:4| AND |E.M.Pal|"
+  }
+]

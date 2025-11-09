@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "PlaytimewithPercy",
+  "creator": "WolfBoi008",
+  "filler_item_name": "Old Merch",
+  "starting_items": [],
+  "death_link": true
+}

@@ -1,0 +1,46 @@
+{
+    "Jumpscaresanity": {
+        "yaml_option": ["jumpscaresanity"]
+    },
+    "Rank Checks": {
+        "yaml_option": ["rank_checks"],
+        "hidden": true
+    },
+    "F Ranks": {
+        "yaml_option": ["f_ranks"],
+        "hidden": true
+    },
+    "D Ranks": {
+        "yaml_option": ["d_ranks"],
+        "hidden": true
+    },
+    "C Ranks": {
+        "yaml_option": ["c_ranks"],
+        "hidden": true
+    },
+    "B Ranks": {
+        "yaml_option": ["b_ranks"],
+        "hidden": true
+    },
+    "A Ranks": {
+        "yaml_option": ["a_ranks"],
+        "hidden": true
+    },
+    "S Ranks": {
+        "yaml_option": ["s_ranks"],
+        "hidden": true
+    },
+    "Custom Hour Challenges": {
+        "yaml_option": ["custom_hour_challenges"]
+    },
+    "Normal Mode Characters": {
+        "yaml_option": ["normal_mode_characters"]
+    },
+    "Pal Mode Characters": {
+        "yaml_option": ["pal_mode_characters"]
+    },
+    "Custom Hour Checks": {
+        "yaml_option": ["custom_hour_checks"],
+        "hidden": true
+    }
+}

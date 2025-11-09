@@ -1,0 +1,226 @@
+[
+  {
+    "count": 4,
+    "name": "Progressive Shift",
+    "category": [
+      "Shifts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "E.M.Pal",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Percy Poodle",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charlie Cat",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mother Moose",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Farmer Felix",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rowen Rat",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tim (Playful Poodles)",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tat (Playful Poodles)",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tot (Playful Poodles)",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sunny Sheep",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Helios",
+    "category": [
+      "Normal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pal",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TamaLanki",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TamaOpti",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TamaBruti",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TamaRoachi",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tim (Poodle Pals)",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tat (Poodle Pals)",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tot (Poodle Pals)",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Polly Possum",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Truman",
+    "category": [
+      "Pal Mode Characters"
+    ],
+    "progression": true
+  },
+  {
+    "count": 0,
+    "name": "Pal Percy Disabled for 10 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Pal Boy Disabled for 10 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "E.M.Pal Disabled for 10 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Ignore Tim for 10 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Ignore Tat for 10 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Ignore Tot for 10 Seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  }
+]
